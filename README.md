@@ -1,16 +1,25 @@
 🌈 Background Changer React Project
 📌 Description
-Background Changer ek simple React project hai jisme user different buttons ya color picker ki help se background color change kar sakta hai. Ye project beginner-friendly hai aur React ke state management (useState hook) ko samajhne ke liye perfect example hai.
-🚀 Features
-🎨 Multiple color buttons → Click karke background color instantly change hota hai
-🎛 Color Picker support → Custom color choose kar sakte ho
-🌐 Full screen background change with smooth transition
-⚡ Built with React + JavaScript (ES6)
-🛠️ Technologies Used
-React.js (Create React App)
-JavaScript (ES6)
-CSS
 
+Background Changer ek simple React project hai jisme user different buttons ya color picker ki help se background color change kar sakta hai. Ye project beginner-friendly hai aur React ke state management (useState hook) ko samajhne ke liye perfect example hai.
+
+🚀 Features
+
+🎨 Multiple color buttons → Click karke background color instantly change hota hai
+
+🎛 Color Picker support → Custom color choose kar sakte ho
+
+🌐 Full screen background change with smooth transition
+
+⚡ Built with React + JavaScript (ES6)
+
+🛠️ Technologies Used
+
+React.js (Create React App)
+
+JavaScript (ES6)
+
+CSS
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
